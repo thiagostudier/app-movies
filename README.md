@@ -14,8 +14,8 @@ Projeto "Filmaria", do curso: Curso Vue JS do zero ao avançado na pratica, Udem
 
 ## Iniciando...
 
-- `git clone https://github.com/thiagostudier/avancando-com-vuejs-e-rotas.git`
-- `cd avancando-com-vuejs-e-rotas`
+- `git clone https://github.com/thiagostudier/app-movies.git`
+- `cd app-movies`
 
 > _Parte da configuração: Necessário instalar o yarn
 
